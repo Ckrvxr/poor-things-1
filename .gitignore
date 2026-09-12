@@ -1,0 +1,11 @@
+# Private material kept outside the public repository
+/20260913 sercet/
+
+# Local credentials and private keys
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
+
+# Local test credentials
+**/esp_gimbal/test/wifi.py
